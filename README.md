@@ -1,4 +1,4 @@
-# 🌟 Пресеты для EasyEffects
+# 🌟 Presets for EasyEffects
 
 <br><br>
 
