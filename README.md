@@ -23,4 +23,4 @@ input, output — Здесь представлены пресеты для ул
 
 <br>
 
-[Скачать input.json](https://github.com/cppandpython/EasyEffects/blob/main/input.json)
+[Скачать output.json](https://github.com/cppandpython/EasyEffects/blob/main/output.json)
