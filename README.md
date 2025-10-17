@@ -6,7 +6,7 @@
 
 <br>
 
-input, output — Here are presets for improving microphone and output sound, removing noise, and enhancing quality. These universal presets are suitable for games, music, and more
+input, output — Here are presets for improving microphone and output sound, removing noise, and enhancing quality, these universal presets are suitable for games, music, and more
 
 <br>
 
