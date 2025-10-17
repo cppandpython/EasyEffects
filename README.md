@@ -19,5 +19,8 @@ input, output — Здесь представлены пресеты для ул
 
 ## 🧰 Установка
 
-[Скачать input.json](https://raw.githubusercontent.com/cppandpython/EasyEffects/e203fc565efef529270113eb89cb27248349c562/input.json)
+[Скачать input.json](https://github.com/cppandpython/EasyEffects/blob/main/input.json)
 
+<br>
+
+[Скачать input.json](https://github.com/cppandpython/EasyEffects/blob/main/input.json)
