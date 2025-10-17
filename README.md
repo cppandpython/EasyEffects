@@ -19,6 +19,5 @@ input, output — Здесь представлены пресеты для ул
 
 ## 🧰 Установка
 
-```bash
 [Скачать input.json](https://raw.githubusercontent.com/cppandpython/EasyEffects/e203fc565efef529270113eb89cb27248349c562/input.json)
-```
+
