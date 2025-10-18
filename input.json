@@ -253,7 +253,7 @@
             "enable-vad": true,
             "input-gain": 0.0,
             "model-name": "",
-            "output-gain": -1.0,
+            "output-gain": 0.0,
             "release": 25.0,
             "vad-thres": 25.0,
             "wet": 0.0
