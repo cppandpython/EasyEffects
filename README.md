@@ -1,4 +1,4 @@
-# 🌟 Presets for ![EasyEffects](https://flathub.org/en/apps/com.github.wwmm.easyeffects)
+# 🌟 Presets for [![EasyEffects](https://flathub.org/en/apps/com.github.wwmm.easyeffects)](https://flathub.org/en/apps/com.github.wwmm.easyeffects)
 
 
 <br><br>
