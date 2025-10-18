@@ -21,11 +21,11 @@ input, output — Here are presets for improving microphone and output sound, re
 
 ## 🧰 Installation
 
-[Download input.json](https://github.com/cppandpython/EasyEffects/blob/main/input.json)
+[Download input.json](https://github.com/cppandpython/easyeffects/blob/main/input.json)
 
 <br>
 
-[Download output.json](https://github.com/cppandpython/EasyEffects/blob/main/output.json)
+[Download output.json](https://github.com/cppandpython/easyeffects/blob/main/output.json)
 
 
 
@@ -49,8 +49,8 @@ input, output — Здесь представлены пресеты для ул
 
 ## 🧰 Установка
 
-[Скачать input.json](https://github.com/cppandpython/EasyEffects/blob/main/input.json)
+[Скачать input.json](https://github.com/cppandpython/easyeffects/blob/main/input.json)
 
 <br>
 
-[Скачать output.json](https://github.com/cppandpython/EasyEffects/blob/main/output.json)
+[Скачать output.json](https://github.com/cppandpython/easyeffects/blob/main/output.json)
